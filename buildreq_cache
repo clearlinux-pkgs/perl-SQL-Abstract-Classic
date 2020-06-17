@@ -1,0 +1,11 @@
+1.91
+perl(MRO::Compat)
+perl(Module::Runtime)
+perl(Moo)
+perl(SQL::Abstract)
+perl(SQL::Abstract::Test)
+perl(Sub::Quote)
+perl(Sub::Uplevel)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::Warn)
