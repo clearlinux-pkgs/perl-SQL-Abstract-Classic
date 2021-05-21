@@ -4,7 +4,7 @@
 #
 Name     : perl-SQL-Abstract-Classic
 Version  : 1.91
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 Summary  : 'Generate SQL from Perl data structures'
