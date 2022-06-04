@@ -4,7 +4,7 @@
 #
 Name     : perl-SQL-Abstract-Classic
 Version  : 1.91
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RI/RIBASUSHI/SQL-Abstract-Classic-1.91.tar.gz
 Summary  : 'Generate SQL from Perl data structures'
@@ -91,5 +91,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/SQL/Abstract/Classic.pm
-/usr/lib/perl5/vendor_perl/5.34.0/SQL/Abstract/Util.pm
+/usr/lib/perl5/*
